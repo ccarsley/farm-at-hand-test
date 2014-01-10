@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="136px" height="134.667px"
+	 viewBox="0 0 136 134.667" enable-background="new 0 0 136 134.667" xml:space="preserve">
+<circle fill="#FFFFFF" stroke="#96131F" stroke-width="1.9167" stroke-miterlimit="10" cx="67" cy="67.333" r="63.891"/>
+<rect x="24.713" y="18.638" fill="none" width="89.182" height="89.182"/>
+<path fill="none" stroke="#97131F" stroke-width="1.8945" stroke-miterlimit="10" d="M57.784,81.617
+	C52,76.652,46.739,66.846,46.739,56.974c0-15.426,9.343-27.921,20.885-27.921c11.53,0,20.876,12.5,20.876,27.921
+	c0,9.668-5.568,20.091-11.153,25.105"/>
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M131.559,67.309c0,35.483-28.767,64.251-64.249,64.251c-35.497,0-64.262-28.769-64.262-64.251
+			c0-35.487,28.765-64.256,64.262-64.256C102.792,3.053,131.559,31.821,131.559,67.309z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#97131F" stroke-width="1.8945" stroke-miterlimit="10" d="M34.223,122.184
+		c0-16.786,9.902-35.877,23.561-40.567c0.015-0.004-1.366-0.008-0.512-0.013"/>
+</g>
+<g>
+	<defs>
+		<path id="SVGID_3_" d="M131.559,67.309c0,35.483-28.767,64.251-64.249,64.251c-35.497,0-64.262-28.769-64.262-64.251
+			c0-35.487,28.765-64.256,64.262-64.256C102.792,3.053,131.559,31.821,131.559,67.309z"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_4_)" fill="none" stroke="#97131F" stroke-width="1.8945" stroke-miterlimit="10" d="M100.93,122.461
+		c0-16.787-9.902-35.876-23.561-40.567c-0.017-0.003,1.366-0.007,0.512-0.012"/>
+</g>
+</svg>
